@@ -18,6 +18,8 @@ pip install yfinance==0.1.67
 pip install bs4==4.10.0 -y
 pip install nbformat==4.2.0
 
+```
+
 Dashboard example:
 
 ![Tesla](TeslaDashboard.png)
