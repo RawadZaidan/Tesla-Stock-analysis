@@ -20,4 +20,4 @@ pip install nbformat==4.2.0
 
 Dashboard example:
 
-![Alt Text](TeslaDashboard.png)
+![Alt Text](Tesla_graph.html)
