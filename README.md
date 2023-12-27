@@ -20,4 +20,4 @@ pip install nbformat==4.2.0
 
 Dashboard example:
 
-![Tesla](TeslaDashboard.PNG)
+![Tesla](TeslaDashboard.png)
